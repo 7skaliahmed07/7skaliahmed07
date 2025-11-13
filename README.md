@@ -1,120 +1,94 @@
-<h1 align="center">Hi, I'm Uzair Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Uzair Ahmed</h1>
 <h3 align="center">Data & Analytics Engineer | Machine Learning & Deep Learning Specialist</h3>
 
 <p align="center">
-Focused on AI research, scalable data systems, and deep learning methodologies.  
-Actively seeking <b>Full-Time Roles</b> & <b>PhD Opportunities</b> in the Netherlands 🇳🇱.
+Building scalable data systems, intelligent ML solutions, and cloud-native pipelines.  
+Open to <b>full-time roles</b> and <b>PhD research opportunities</b> in the Netherlands 🇳🇱.
 </p>
 
 ---
 
-# 🎓 Research Interests  
-My work lies at the intersection of **machine learning, computer vision, and data-intensive systems**, with interests including:
-
-- **Deep Learning for image forensics & visual authenticity**
-- **CNNs, transformer-based models, and representation learning**
-- **Cloud-scale data engineering & distributed ML training**
-- **Model interpretability, robustness, & optimization**
-- **Automated ML workflows (MLOps) & reproducible research**
+## 🧪 Research Interests  
+- Machine Learning & Deep Learning  
+- Computer Vision & Image Forensics  
+- Data Engineering & Distributed Systems  
+- Cloud Computing (AWS, GCP)  
+- Responsible AI & Model Explainability  
 
 ---
 
-# 📚 Current Research  
-### 🎓 **Master’s Thesis — Recapture Image Detection Using Deep Learning**  
-**University of Naples Federico II (Italy)** & **University of Groningen (Netherlands)**  
+## 📚 Current Research  
+### **🎓 Master's Thesis — Recapture Image Detection**
+Developing deep-learning models to detect *recaptured / digitally re-photographed* images —  
+a critical topic in image forensics, fraud detection, and document verification.  
 
-Developing a deep-learning–based framework to distinguish **original photographs** from **recaptured (screen-photographed) images** using CNN architectures and image forensics techniques.
-
-🔗 **Repository:**  
-https://github.com/7skaliahmed07/recapture-image-detection-thesis_Unina-RUG
-
-**Key Contributions:**
-- Designed & trained custom CNN architectures for recapture detection  
-- Compared transfer learning models under varying degradation conditions  
-- Implemented feature extraction based on illumination inconsistencies  
-- Built reproducible pipelines for experimentation & benchmarking  
-- Achieved strong generalization across real-world recapture scenarios  
+🔗 **Repo:**  
+[Recapture Image Detection](https://github.com/7skaliahmed07/recapture-image-detection-thesis_Unina-RUG)
 
 ---
 
-# 🧠 Technical Expertise  
+## 🛠️ Technical Skills
 
 ### **Programming**
-Python • SQL • JavaScript • TypeScript • Bash  
+`Python` · `SQL` · `JavaScript` · `TypeScript`
 
-### **Machine Learning**
-TensorFlow • PyTorch • Keras • Scikit-Learn  
-Classical ML • Evaluation Metrics • Experiment Tracking  
-Model Debugging • Feature Engineering  
+### **Machine Learning / Deep Learning**
+`TensorFlow` · `PyTorch` · `Scikit-Learn` · `OpenCV` · `Pandas` · `NumPy`
 
-### **Deep Learning**
-CNNs • Computer Vision • Transfer Learning  
-Activation Analysis • Training Optimization  
-Dataset Pipelines • Augmentation Strategies  
+### **Data Engineering & Cloud**
+`Apache Spark` · `Kafka` · `Airflow` · `Docker` · `Kubernetes`  
+`AWS` (S3, Lambda, Glue, EC2) · `GCP`
 
-### **Data Engineering**
-Apache Spark • Hadoop • Kafka  
-ETL/ELT Pipelines • Data Lakes • Distributed Computing  
-MySQL • PostgreSQL • MSSQL • MongoDB  
+### **Databases**
+`MongoDB` · `PostgreSQL` · `MySQL` · `SQLite`
 
-### **Cloud & MLOps**
-AWS (S3, EC2, Lambda, Glue, Redshift)  
-Docker • Kubernetes • Airflow • CI/CD • Logging & Monitoring  
+### **Web Technologies**
+`React` · `Node.js` · `Next.js`  
 
 ---
 
-# 📝 Selected Projects  
+## 📌 Selected Projects  
+### **🔍 Recapture Image Detection (Thesis)**  
+Deep learning pipeline for detecting re-photographed images.  
+→ Computer Vision · PyTorch · Classification
 
-### 🔍 **1. Deep Learning for Recapture Image Detection (Thesis)**  
-Advanced research in image forensics using CNN-based architectures.
+### **📦 End-to-End Data Pipeline (AWS + Spark)**  
+Data ingestion → ETL → ML model deployment using Spark, Airflow & AWS.
 
-### 🧼 **2. Automated Image Preprocessing & Dataset Pipeline**  
-Modular framework for cleaning, augmenting, and preparing datasets for ML/DL experiments.
+### **🤖 ML Experiments & Research Notebooks**  
+A collection of ML/DL experiments and reproducible research workflows.
 
-### 📊 **3. Cloud-Native Data Engineering Pipelines**  
-ETL workflows using Spark + AWS for scalable data processing.
-
-### 🧪 **4. ML Experimentation & Benchmarking Framework**  
-Template for reproducible training, validation, & comparison of ML models.
-
----
-
-# 📑 Publications & Writing  
-📘 Medium Articles:  
-https://medium.com/@uzeruideveloper  
-
-Topics include:  
-- AI & Deep Learning fundamentals  
-- Data engineering pipelines  
-- ML Ops & automation best practices  
-- Practical experimentation in ML  
+📎 **Portfolio:**  
+https://scientist-portfolio-git-master-7skaliahmed07s-projects.vercel.app/
 
 ---
 
-# 📈 Research & Code Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7skaliahmed07&show_icons=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7skaliahmed07&layout=compact" height="150"/>
-</p>
+## ✍️ Publications & Writing  
+I share tutorials, research ideas, and engineering insights:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=7skaliahmed07" height="170"/>
-</p>
+🔗 **Medium:**  
+https://medium.com/@uzeruideveloper
 
 ---
 
-# 🤝 Academic & Professional Links  
+## 🌐 Connect With Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/uzeraliahmed/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
-<a href="https://kaggle.com/uzeruideveloper" target="_blank"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"></a>
-<a href="https://medium.com/@uzeruideveloper" target="_blank"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"></a>
-<a href="https://leetcode.com/u/uzeruideveloper/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"></a>
-<a href="https://www.youtube.com/@AayatUnlocked" target="_blank"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"></a>
+<a href="https://twitter.com/uzer_ali" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/uzeraliahmed/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://kaggle.com/uzeruideveloper" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@AayatUnlocked" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
+<a href="https://medium.com/@uzeruideveloper" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
 </p>
 
 ---
 
-<p align="center"><i>
-Thank you for visiting my profile.  
-I welcome collaboration, research discussions, and academic opportunities.
-</i></p>
+## 📫 Contact  
+📧 **uzeruideveloper@gmail.com**
+
+---
+
+## 📊 GitHub Stats (Optional but Professional)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=7skaliahmed07&show_icons=true&theme=default" height="160">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7skaliahmed07&layout=compact" height="160">
+</p>

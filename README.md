@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uzair Ahmed</h1>
-<h3 align="center">Data & Analytics Engineer | ML/DL Engineer From raw data to intelligent impact. Motto: “Let’s make it happen now.” 🚀 A data professional skilled in Python, SQL, Spark, Airflow, and AWS, passionate about building pipelines that drive smarter decisions. With a Master’s in Data Science and a background in Civil Engineering, I bring a unique problem-solving perspective to Data Engineering, Analytics, and ML projects. Open to internships and full-time roles in the Netherlands.</h3>
+<h3 align="center">Data & Analytics Engineer | ML/DL Engineer</h3>
+<p align="center">Data professional skilled in Python, SQL, Spark, Airflow & AWS. Passionate about building data pipelines that drive smarter decisions. Open to roles in the Netherlands.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7skaliahmed07&label=Profile%20views&color=0e75b6&style=flat" alt="7skaliahmed07" /> </p>
 

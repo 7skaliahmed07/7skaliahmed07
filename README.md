@@ -19,7 +19,7 @@ Open to <b>full-time roles</b> and <b>PhD research opportunities</b> in the Neth
 
 ## 📚 Current Research  
 ### **🎓 Master's Thesis — Recapture Image Detection**
-Developing deep-learning models to detect *recaptured / digitally re-photographed* images —  
+Developing deep-learning models to detect *recaptured / digitally re-photographed* images 
 a critical topic in image forensics, fraud detection, and document verification.  
 
 🔗 **Repo:**  

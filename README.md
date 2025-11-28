@@ -1,5 +1,5 @@
 # Hi 👋, I'm Uzair Ahmed
-**Data & Analytics Engineer | AI Machine Learning & Deep Learning **
+**Data & Analytics Engineer | AI Machine Learning & Deep Learning**
 
 ---
 

@@ -69,8 +69,9 @@ Collection of reproducible ML experiments using SkLearn, TF & MLflow.
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7skaliahmed07&layout=compact&theme=tokyonight" width="330" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7skaliahmed07&layout=compact&theme=tokyonight&cache_seconds=86400" width="350" />
 </p>
+
 
 ---
 

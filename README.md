@@ -63,7 +63,7 @@ Building deep-learning models to detect digitally *re-photographed* images using
 
 ### 🔍 Recapture Image Detection (Thesis)
 - Deep learning pipeline for detecting re-photographed images  
-- **Tech:** PyTorch, OpenCV, CNN, Grad-CAM  
+- **Tech:** Tensorflow, OpenCV, CNN, Grad-CAM  
 - Animated explainability visuals included  
 
 ### 📦 Cloud ML Pipeline
@@ -78,14 +78,7 @@ Building deep-learning models to detect digitally *re-photographed* images using
   <img src="https://media.giphy.com/media/3o7aD9Yt7Kq6h4zHRi/giphy.gif" width="60%" />
 </p> -->
 
----
 
-## 🌈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7skaliahmed07&show_icons=true&theme=radical&count_private=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7skaliahmed07&theme=radical" width="45%" />
-</p>
 
 ---
 

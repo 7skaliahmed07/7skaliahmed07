@@ -15,7 +15,7 @@
 I'm an **AI researcher & data engineer** passionate about **computer vision**, **image forensics**, and **cloud-scale machine learning systems**.  
 Currently exploring **recapture image detection** for my Master’s thesis.
 
-📍 *Open to full-time roles & PhD opportunities in NL/EU*
+📍 *Open to full-time roles in NL/EU*
 
 ---
 

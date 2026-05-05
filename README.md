@@ -1,21 +1,21 @@
 # 👋 Hi, I'm **Uzair Ahmed**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF6EC7&center=true&vCenter=true&width=600&lines=AI+%26+Computer+Vision+Researcher;Data+%26+Analytics+Engineer;ML+%26+Deep+Learning+Engineer;Cloud+%26+Big+Data+Specialist;Always+Learning,+Always+Building." />
-</p>
-
 <!-- <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60%" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF6EC7&center=true&vCenter=true&width=600&lines=AI+%26+Computer+Vision+Researcher;Data+%26+Analytics+Engineer;ML+%26+Deep+Learning+Engineer;Cloud+%26+Big+Data+Specialist;Always+Learning,+Always+Building." />
 </p> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF6EC7&center=true&vCenter=true&width=600&lines=Data+Engineer%2C+M.Sc+Data+Science;Ex-Full+Stack+Engineer;ML+Engineer%2C+Deep+Learning+Researcher;Always+Learning+and+Always+Building." />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm an **AI researcher & data engineer** passionate about **computer vision**, **image forensics**, and **cloud-scale machine learning systems**.  
-Currently exploring **recapture image detection** for my Master’s thesis.
+**Data Engineer** with a background in AI, ML, Web Development. Production experience at **JustEatTakeaway.com** and other techs on GCP, Airflow, Spark, and dbt. 7+ self-built projects covering ETL pipelines, Docker, Kubernetes deployments, and real-time streaming.
 
-📍 *Open to full-time roles in NL/EU*
+📍 *Open to full-time roles in NL — HSM sponsorship required.*
+
 
 ---
 

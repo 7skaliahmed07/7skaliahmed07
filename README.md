@@ -9,7 +9,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF6EC7&center=true&vCenter=true&width=600&lines=Data+Engineer%2C+M.Sc+Data+Science;Ex-Full+Stack+Engineer;ML+Engineer%2C+Deep+Learning+Researcher;Always+Learning+and+Always+Building." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF6EC7&center=true&vCenter=true&width=600&lines=Data+Engineer%2C+M.Sc+Data+Science;Ex-Full+Stack+Engineer;ML & %2C+Deep+Learning+Researcher;Always+Learning+and+Always+Building." />
 </p>
 
 ---

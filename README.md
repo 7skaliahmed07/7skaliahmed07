@@ -5,7 +5,7 @@
 </p> -->
 
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF6EC7&center=true&vCenter=true&width=600&lines=Data+Engineer%2C+M.Sc+Data+Science;Ex-Full+Stack+Engineer;Machine+Learning+Engineer;Deep+Learning+Researcher;Always+Learning+&+Building..." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF6EC7&center=true&vCenter=true&width=600&lines=Data+Engineer%2C+M.Sc+Data+Science;Ex-Full+Stack+Engineer;Machine+Learning+Engineer;Deep+Learning+Researcher;Always+Learning+%26+Building..." />
 </p>
 
 

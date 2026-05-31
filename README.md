@@ -16,7 +16,7 @@
 
 **Data Engineer** with a background in AI, ML, Web Development. Production experience at **JustEatTakeaway.com** and other techs on GCP, Airflow, Spark, and dbt. 7+ self-built projects covering ETL pipelines, Docker, Kubernetes deployments, and real-time streaming.
 
-📍 *Open to full-time roles in NL — HSM sponsorship required.*
+📍 *Open to full-time roles in NL — HSM sponsorship required in 2027*
 
 
 ---

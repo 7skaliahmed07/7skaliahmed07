@@ -21,7 +21,7 @@
 
 ---
 
-## 🔬 Current Research
+## 🔬 Research
 
 ### **Recapture Image Detection — Master’s Thesis**
 Building deep-learning models to detect digitally *re-photographed* images using CNNs, feature engineering, and explainability methods.
